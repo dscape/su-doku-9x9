@@ -1,1 +1,1 @@
-Reports are available (in portuguese) in the relatorio folder
+Reports are available (in portuguese) in the relatorio folderDependencies:* WXHaskell [http://prdownloads.sourceforge.net/wxhaskell/wxhaskell-src-0.9.4-1.zip?download ] * GHC [http://www.haskell.org/ghc/download_ghc_642.html] 
